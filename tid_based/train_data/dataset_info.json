@@ -1,0 +1,18 @@
+{
+  "sports_tid_merged_sft": {
+    "file_name": "sports_tid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  },
+  "toys_tid_merged_sft": {
+    "file_name": "toys_tid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  },
+  "beauty_tid_merged_sft": {
+    "file_name": "beauty_tid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  },
+  "yelp_tid_merged_sft": {
+    "file_name": "yelp_tid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  }
+}

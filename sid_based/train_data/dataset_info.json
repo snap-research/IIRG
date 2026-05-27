@@ -1,0 +1,34 @@
+{
+  "sports_sid_merged_sft": {
+    "file_name": "sports_sid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  },
+  "toys_sid_merged_sft": {
+    "file_name": "toys_sid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  },
+  "beauty_sid_merged_sft": {
+    "file_name": "beauty_sid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  },
+  "yelp_sid_merged_sft": {
+    "file_name": "yelp_sid_merged_sft.jsonl",
+    "formatting": "alpaca"
+  },
+  "sports_sid_alignment_sft": {
+    "file_name": "sports_sid_alignment_sft.json",
+    "formatting": "alpaca"
+  },
+  "toys_sid_alignment_sft": {
+    "file_name": "toys_sid_alignment_sft.json",
+    "formatting": "alpaca"
+  },
+  "beauty_sid_alignment_sft": {
+    "file_name": "beauty_sid_alignment_sft.json",
+    "formatting": "alpaca"
+  },
+  "yelp_sid_alignment_sft": {
+    "file_name": "yelp_sid_alignment_sft.json",
+    "formatting": "alpaca"
+  }
+}

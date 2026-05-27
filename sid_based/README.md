@@ -38,7 +38,7 @@ This branch provides an LLM-based generative recommender system that uses semant
   - **[Run 3]** `python3 step6_sid_semantic_neighbor_task_builder.py --dataset <dataname>`
   - **[Detail]** These scripts generate training and evaluation samples for the next-item prediction task, as well as training samples for the collaborative-neighbor generation and semantic-neighbor generation tasks.
 
-- **[Step 7. Merge Data]** Run `python3 merge_files.py --dataset <dataname>`.
+- **[Step 7. Merge Data]** Run `python3 step7_merge_files.py --dataset <dataname>`.
   - **[Detail]** This merges samples from the three tasks into a single training dataset.
   - **🚨 [Key Notification] 🚨** You can control the relative weight of each task in the final loss function.
 

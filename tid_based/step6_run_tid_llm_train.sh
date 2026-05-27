@@ -7,7 +7,7 @@ DATASET=toys
 
 # Activate conda environment
 eval "$(conda shell.bash hook)"
-conda activate sunwoo
+conda activate iirg_env
 
 model_path=Qwen/Qwen3.5-4B
 output_dir=./model_${DATASET}_tid_sft

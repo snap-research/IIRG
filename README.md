@@ -25,6 +25,14 @@
   - **[Step 4]** Train LLM-based recommender systems.
   - **[Step 5]** Evaluate the trained model.
 
+### Installation
+- **[Requirement installation]** You can install the required dependencies using the commands below:
+```
+conda create -n iirg_env python=3.12.11 -y
+conda activate iirg_env
+python -m pip install -r requirements.txt
+```
+
 ### 📘 How to Use 📘
 - **[Package versions]** Please refer to ```requirement.txt``` file.
 - **[Prerequisite Step 1]** Locate (1) item meta information and (2) user-item sequential information. Related files can be downloaded from the [DropboxLink](https://www.dropbox.com/scl/fo/4bhh8b2kqow0bnskkmocv/ACNqaBkWXztsWcgyZqbATb8?rlkey=yhld5vyrv3f7jkmmiqld05ans&st=7gqqqhco&dl=0). Necessary files are as follows:

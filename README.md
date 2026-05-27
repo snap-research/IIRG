@@ -25,13 +25,14 @@
   - **[Step 4]** Train LLM-based recommender systems.
   - **[Step 5]** Evaluate the trained model.
 
-### Installation
+### ⚙️ Installation ⚙️
 - **[Requirement installation]** You can install the required dependencies using the commands below:
 ```
 conda create -n iirg_env python=3.12.11 -y
 conda activate iirg_env
 python -m pip install -r requirements.txt
 ```
+- **[Note]** Each LLM training script launches a virtual environment named `iirg_env` at the beginning of the code. If you use a different environment name, please update that part accordingly.
 
 ### 📘 How to Use 📘
 - **[Package versions]** Please refer to ```requirement.txt``` file.

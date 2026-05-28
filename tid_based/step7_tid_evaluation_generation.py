@@ -179,8 +179,6 @@ def main(model_path, dataset_name):
         print(f"Loading test data: {test_file}")
         sft_data = load_test_data(test_file)
 
-        sft_data = sft_data[:5000]
-
         print(f"Loaded {len(sft_data)} test samples")
 
         print(f"Generating outputs for {len(sft_data)} samples")

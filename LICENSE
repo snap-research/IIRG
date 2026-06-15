@@ -1,0 +1,11 @@
+Snap Inc. Non-Commercial License
+Copyright © 2026 Snap Inc. All rights reserved.
+This sample code, excluding Third-Party Software described below, is made available by Snap Inc. for non-commercial, research purposes only.
+Non-commercial means not intended for or directed towards commercial advantage or monetary compensation. Research purposes mean solely for academic study, instruction, or non-commercial research, testing or validation.
+No commercial license, whether implied or otherwise, is granted in or to this sample code or any related patents, unless you have entered into a separate agreement with Snap Inc. for such rights.
+This sample code is provided as-is, without warranty of any kind, express or implied, including any warranties of merchantability, title, fitness for a particular purpose, non-infringement, or that the code is free of defects, errors or viruses. In no event will Snap Inc. be liable for any damages or losses of any kind arising from this sample code or your use thereof.
+Any redistribution of this sample code, including in binary form, must retain or reproduce this license text, including all copyright notices, conditions and disclaimers.
+Third-Party Software
+This sample code may require, depend on, or interact with third-party components, each of which is governed by its own respective license. This license does not modify, replace, or limit any rights or obligations under those third-party licenses, and no third-party component is licensed by Snap Inc. under this Snap Inc. Non-Commercial License.
+The dependency list for this sample code may identify third-party components that require separate license treatment, including LGPL-licensed components such as psycopg2-binary and paramiko, and NVIDIA CUDA, cuDNN, NCCL, NVSHMEM, and related runtime components that are subject to NVIDIA’s applicable license terms.
+Unless separately included by Snap Inc. in a release package, container image, binary distribution, or other packaged environment, such third-party components are not redistributed by Snap Inc. as part of this sample code. You are responsible for obtaining those components from their applicable sources and complying with their applicable license terms.

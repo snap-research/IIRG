@@ -9,6 +9,12 @@
 - **[Affiliations]** Snap Inc., KAIST, and Sungkyunkwan University
 - **[TL;DR]** We train an LLM to perform next-item prediction and two types of neighbor generation tasks: (1) collaborative neighbor generation and (2) semantic neighbor generation.
 
+### ⚖️ License ⚖️
+
+This repository is released under the Snap Inc. Non-Commercial License for non-commercial, research purposes only. See [LICENSE](LICENSE) for the full license text.
+
+This code may depend on third-party components governed by their own licenses. See the “Third-Party Software” section in [LICENSE](LICENSE) for details.
+
 ### 📁 Datasets 📁
 
 - **[Overview]** We support three Amazon datasets: Sports, Toys, and Beauty.

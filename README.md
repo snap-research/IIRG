@@ -5,8 +5,8 @@
 ### 📄 Paper Information 📄
 
 - **[Title]** On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies
-- **[Authors]** Anonymous Authors
-- **[Venue]** Submitted to the ARR 2026 May Round
+- **[Authors]** Sunwoo Kim, Sunkyung Lee, Clark Mingxuan Ju, Donald Loveland, Bhuvesh Kumar, Kijung Shin, Neil Shah, and Liam Collins.
+- **[Affiliations]** Snap Inc., KAIST, and Sungkyunkwan University
 - **[TL;DR]** We train an LLM to perform next-item prediction and two types of neighbor generation tasks: (1) collaborative neighbor generation and (2) semantic neighbor generation.
 
 ### 📁 Datasets 📁
